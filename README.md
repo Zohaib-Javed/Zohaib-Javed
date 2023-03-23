@@ -7,11 +7,13 @@
 const Zohaib = {
 	experience: "3+ Years",
 	education: "BS(CS) from UCP, Lahore — February 2016 to February 2020",
+	Achievement: "Gold Medalist in BS(CS) in my batch.
 	work: [
 		"Software Engineer at Phaedra Solutions — October 2020 to Present",
 	],
-	expertise: ["JavaScript", "NodeJS", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL", "NestJs"],
-	askMeAbout: ["Full Stack Development", "Problem Solving"]
+	expertise: ["JavaScript", "NodeJS", "NestJs", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL"],
+	askMeAbout: ["Full Stack Development", "Problem Solving"],
+	hobbies: ["Playing Table Tennis", "Watching Cricket", "Listening To Music"],
 }
 ```
 <br/>
