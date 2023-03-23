@@ -7,7 +7,7 @@
 const Zohaib = {
 	experience: "3+ Years",
 	education: "BS(CS) from UCP, Lahore — February 2016 to February 2020",
-	Achievement: "Gold Medalist in BS(CS) in my batch.
+	achievement: "Gold Medalist in BS(CS) in my batch.
 	work: [
 		"Software Engineer at Phaedra Solutions — October 2020 to Present",
 	],
