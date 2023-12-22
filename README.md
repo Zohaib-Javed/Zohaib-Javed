@@ -9,7 +9,7 @@ const Zohaib = {
 	education: "BS(CS) from UCP, Lahore — February 2016 to February 2020",
 	achievement: "Gold Medalist in BS(CS) in my batch.
 	work: [
-		"Software Engineer at Phaedra Solutions — October 2020 to Present",
+		"Senior Software Engineer at Phaedra Solutions — October 2020 to Present",
 	],
 	expertise: ["JavaScript", "NodeJS", "NestJs", "ExpressJs", "ReactJs", "MongoDB", "PostgreSQL"],
 	askMeAbout: ["Full Stack Development", "Problem Solving"],
