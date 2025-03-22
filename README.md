@@ -5,7 +5,7 @@
 
 ```javascript
 const Zohaib = {
-	experience: "4+ Years",
+	experience: "5+ Years",
 	education: "BS(CS) from UCP, Lahore — February 2016 to February 2020",
 	achievement: "Gold Medalist in BS(CS) in my batch.
 	work: [
